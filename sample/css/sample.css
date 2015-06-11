@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: arial, sans-serif;
+}
+
+body {
+	width: 800px;
+	word-wrap : break-word;
+	overflow-wrap : break-word;
+}
+
+#header {
+	clear: both;
+	display: block;
+	height: 50px;
+	margin: 10px;
+	background: #0000ff;
+	color: #ffffff;
+}
+
+#footer {
+	clear: both;
+	display: block;
+	height: 50px;
+	margin: 10px;
+	background: #996633;
+	color: #ffffff;
+	text-align: center;
+}
+
+#content {
+	clear: both;
+	display: block;
+	margin: 10px;
+}
+
+#article {
+	border: 1px solid #cccccc;
+	clear: both;
+	display: block;
+	padding: 10px;
+}
+
+.user_info {
+	display: inline-block;
+	float: right;
+	padding: 5px;
+}
