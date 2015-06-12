@@ -1,12 +1,13 @@
 素のPHPを使った簡単なサンプルプログラム
 
 ### ディレクトリ構成
+```
 sample(DocumentRoot)
  |- /index.php
  |- /app
  |    |- /constant.php
- |    |-/user_info.php
- |    |-/article_list.php
+ |    |- /user_info.php
+ |    |- /article_list.php
  |    `- /view
  |         |- /view-index.php
  |         `- /parts
@@ -18,4 +19,5 @@ sample(DocumentRoot)
  |- /js
  |    `- ･･･
  `- /css
-      `- sample.css
+      `- /sample.css
+```
