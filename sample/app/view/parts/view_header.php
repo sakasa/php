@@ -3,3 +3,4 @@
 		<?php echo htmlspecialchars($user->info['name']); ?>
 	</div>
 </div>
+

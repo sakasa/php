@@ -10,4 +10,5 @@ foreach ($article->articleList as $key => $value) {
 }
 unset($key);
 unset($value);
+
 ?>
